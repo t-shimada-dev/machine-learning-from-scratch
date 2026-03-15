@@ -1,1 +1,1 @@
-# machine-learning-from-scratch
+# 機械学習アルゴリズムのスクラッチ実装
