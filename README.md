@@ -1,1 +1,1 @@
-# 機械学習アルゴリズムのスクラッチ実装
+# Machine Learning form Scratch
