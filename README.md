@@ -1,6 +1,7 @@
 # Machine Learning form Scratch
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![NumPy](https://img.shields.io/badge/NumPy-only-green)
+
 Implementing machine learning algorithms from scratch using only NumPy.
 Each notebook includes:
 - Algorithm implementation
