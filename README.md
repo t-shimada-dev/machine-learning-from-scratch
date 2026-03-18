@@ -36,7 +36,7 @@ machine-learning-from-scratch
 │   ├── Logistic_Regression.ipynb  
 │   └── Logistic_Regression.py
 │
-└── principal-component-analysis(coming soon)
+└── principal-component-analysis
 │   ├── Principal_Component_Analysis.ipynb  
 │   └── Principal_Component_Analysis.py
 │
