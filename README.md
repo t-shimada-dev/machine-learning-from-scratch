@@ -3,12 +3,13 @@
 ![NumPy](https://img.shields.io/badge/NumPy-only-green)
 
 Implementing machine learning algorithms from scratch using only NumPy.  
-Each notebook includes:  
+Each notebook includes:
 - Algorithm implementation  
 - Model visualization  
 - Validation  
 
 ## Directory Structure
+```
 machine-learning-from-scratch  
 ├── [artificial-nerural-network](./artificial-nerural-network)  
 │   ├── Artificial_Nerural_Network.ipynb  
@@ -31,6 +32,7 @@ machine-learning-from-scratch
 └── [support-vector-machine](./support-vector-machine)  
     ├── Support_Vector_Machine.ipynb  
     └── Support_Vector_Machine.py  
+```
 
 ## Requirements
 - Python
