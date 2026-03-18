@@ -4,8 +4,8 @@ from sklearn.datasets import make_blobs
 from sklearn.model_selection import train_test_split
 
 # 分類データの生成
-X_cls, y_cls = make_blobs(n_samples=100, centers=3, random_state=42)
-X_cls_train, X_cls_test, y_cls_train, y_cls_test = train_test_split(X_cls, y_cls, test_size=0.2, random_state=42)
+X_cls, y_cls = make_blobs(n_samples=300, centers=3, cluster_std=3.0, random_state=42)
+X_cls_train, X_cls_test, y_cls_train, y_cls_test = train_test_split(X_cls, y_cls, test_size=0.4, random_state=42)
 
 # 回帰データの生成
 np.random.seed(42)
