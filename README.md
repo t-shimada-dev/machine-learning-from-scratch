@@ -24,7 +24,7 @@ machine-learning-from-scratch
 │   ├── Gaussian_Naive_Bayes.ipynb  
 │   └── Gaussian_Naive_Bayes.py
 │
-└── k-means-clustering(coming soon)
+└── k-means-clustering
 │   ├── K-Means_Clustering.ipynb 
 │   └── K-Means_Clustering.py
 │
