@@ -48,11 +48,11 @@ machine-learning-from-scratch
 │   ├── Support_Vector_Machine.ipynb  
 │   └── Support_Vector_Machine.py
 │
-└── thompson-sampling(coming soon)
+└── thompson-sampling
 │   ├── Thompson_Sampling.ipynb  
 │   └── Thompson_Sampling.py
 │
-└── upper-confidence-bound(coming soon)
+└── upper-confidence-bound
     ├── Upper_Confidence_Bound.ipynb  
     └── Upper_Confidence_Bound.py
 ```
